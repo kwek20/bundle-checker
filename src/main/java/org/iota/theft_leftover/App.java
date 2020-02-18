@@ -19,7 +19,7 @@ import java.util.*;
 
 public class App {
 
-    public static final String node = "http://node02.iotatoken.nl:14265";
+    public static final String node = "http://my.awesomenode.com:14265";
 
     // Bundle hashes we start searchign from
     public static final String startDoc = "involvedTxs.txt";
