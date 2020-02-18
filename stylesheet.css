@@ -1,0 +1,29 @@
+node.regular {
+    fill-color: blue;
+    size: 15px;
+}
+
+node.remainder {
+    fill-color: green;
+}
+
+node.unknown_stuck {
+    fill-color: orange;
+}
+
+node.unknown_investigate {
+    fill-color: black;
+}
+
+node.theft {
+    fill-color: red;
+}
+
+node.original_owner {
+    fill-color: purple;
+    size: 15px;
+}
+
+node.big {
+    fill-color: yellow;
+}
